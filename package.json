@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibini/Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fibini/Testing/issues"
+  },
+  "homepage": "https://github.com/fibini/Testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
