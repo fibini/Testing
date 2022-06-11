@@ -1,4 +1,4 @@
-const { string } = require('assert-plus');
+
 const reverseString = require('./reversestring.js');
 
 test('reverse', () => {
